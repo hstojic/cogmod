@@ -8,4 +8,8 @@
 .Rdata
 
 # RStudio files
+cogmod.Rproj
 .Rproj.user/
+
+# files for building the package
+build.R
